@@ -13,7 +13,7 @@ https://kazuhito00.github.io/L-Image-Maker/
 高橋かずひと(https://twitter.com/KzhtTkhs)
 
 # License 
-L-Image-Maker is under [Apache 2,0 license](LICENSE).
+L-Image-Maker is under [Apache 2.0 license](LICENSE).
 
 # License(Font)
 Cloister Blackフォント(https://fontmeme.com/jfont/cloister-black-font/)
